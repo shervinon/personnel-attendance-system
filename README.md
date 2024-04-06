@@ -1,0 +1,1 @@
+This code represents a personnel attendece system which gets entrance information of personnel from user and calculate the overtime for each day. Overtime depends on the personnel's time for entrance which you can change in the code. You can also change the number of days and personnel that you want to have record of ( default number for days is 2 and for personnel is 3).
